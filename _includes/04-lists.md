@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* :computer:
+* :iphone:
+* :sushi:
+* :ice_cream:
+* :ramen:
+* :honey_pot:
