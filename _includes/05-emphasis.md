@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*SQL*
+_SQL_
+
+**Python**
+__Python*__
+
+_You **can** combine them_
